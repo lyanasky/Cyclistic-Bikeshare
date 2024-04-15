@@ -1,24 +1,12 @@
 # Cyclistic-Bikeshare
-About Company
+In this project, I conducted a comprehensive analysis of the usage patterns and behaviors of annual members and casual riders within the Cyclistic bike-sharing program. The objective was to identify key distinctions between these two user segments in order to develop targeted marketing strategies aimed at converting casual riders into annual members.
 
-In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime.
+By analyzing the Cyclistic historical bike trip data, I gained insights into how annual members and casual riders engage with the service differently. This understanding allowed me to uncover potential motivations for casual riders to purchase a membership and explore how digital media could impact marketing tactics.
 
-Until now, Cyclistic’s marketing strategy relied on building general awareness and appealing to broad consumer segments. One approach that helped make these things possible was the flexibility of its pricing plans: single-ride passes, full-day passes, and annual memberships.
-Customers who purchase single-ride or full-day passes are referred to as casual riders.
-Customers who purchase annual memberships are Cyclistic members.
+The finance team provided valuable financial insights, emphasizing the increased profitability associated with annual memberships compared to casual rides. This information further motivated the need to convert casual riders into more profitable annual members.
 
-Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. Although the pricing flexibility helps Cyclistic attract more customers, Moreno believes that maximizing the number of annual members will be key to future growth. Rather than creating a marketing campaign that targets all-new customers, Moreno believes there is a solid opportunity to convert casual riders into members. She notes that casual riders are already aware of the Cyclistic program and have chosen Cyclistic for their mobility needs.
+Based on my analysis, I identified trends and patterns in the data that revealed the differences between annual members and casual riders. These insights served as the foundation for the development of targeted marketing strategies. By leveraging the existing awareness of the Cyclistic program among casual riders, we aimed to optimize conversion rates and maximize the number of annual members.
 
-Moreno has set a clear goal: Design marketing strategies aimed at converting casual riders into annual members. In order to do that, however, the team needs to:
-Better understand how annual members and casual riders differ,
-Why casual riders would buy a membership, and
-How digital media could affect their marketing tactics. Moreno and her team are interested in analyzing the Cyclistic historical bike trip data to identify trends
+The project's findings and recommendations were presented to the Director of Marketing, the Marketing Analytics team, and the Cyclistic Executive team. The actionable insights provided a roadmap for enhancing Cyclistic's marketing approach and driving the conversion of casual riders into annual members. By strategically utilizing these insights, Cyclistic can increase its profitability and achieve its goal of maximizing the number of annual members.
 
-Stakeholders:
-
-Primary: Director of Marketing, Marketing analytic team.
-Secondary: Cyclistic Executive team.
-
-Statement of Business Task
-
-This project conducts a comprehensive analysis of the usage patterns and behaviors of annual members and casual riders within the Cyclistic bike-sharing program. The primary objective is to identify key distinctions in how these two user segments engage with the service. By understanding the differences, the goal is to inform the development of targeted marketing strategies aimed at converting casual riders into annual members. The underlying motivation is the financial insight provided by the finance team, highlighting the increased profitability associated with annual memberships compared to casual rides. Ultimately, my analysis aims to provide actionable insights that can be leveraged to enhance Cyclistic's marketing approach and drive the conversion of casual riders into more profitable annual members.
+Overall, this project showcased the power of data analytics in understanding user behavior and optimizing marketing strategies. By leveraging the Cyclistic historical bike trip data, we were able to provide valuable insights that will contribute to the long-term growth and success of Cyclistic's bike-sharing program.
